@@ -5,25 +5,25 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "C:\\Users\\meowDUO\\.ohos\\config\\default_Linys_Browser_NEXT_U8e-oblABLFU73EOK3qrlcjLDcoctG2LWep5b2enlV8=.cer",
-          "storePassword": "0000001B378FA056DE1E24955D5DB7BD504F526C9B9F05674AB90F8A7CA69F8297E23CBA8D9323AE94C146",
+          "certpath": "/Users/zhiyu/.ohos/config/default_LinysBrowser_NEXT_jh_SY6YxmPFO9v8q51rzAp-ZVDW4SIlW0H-PeZ195TM=.cer",
+          "storePassword": "0000001B9C58B8D00670BCB9071EDF7B120A98FACFCD5DCA8696FD5062B027451F598D5BBB831EE8E1411E",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B36483D0D9A529FE3E95260946802572D8361D69C530E904FAB6359DC9952B37CEB97F0E22DA44E",
-          "profile": "C:\\Users\\meowDUO\\.ohos\\config\\default_Linys_Browser_NEXT_U8e-oblABLFU73EOK3qrlcjLDcoctG2LWep5b2enlV8=.p7b",
+          "keyPassword": "0000001B34EC7860F80123215354B0BD68F235EC284ADAF3771B4D6577C577DE6CC6BD619518B655CDAF1C",
+          "profile": "/Users/zhiyu/.ohos/config/default_LinysBrowser_NEXT_jh_SY6YxmPFO9v8q51rzAp-ZVDW4SIlW0H-PeZ195TM=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:\\Users\\meowDUO\\.ohos\\config\\default_Linys_Browser_NEXT_U8e-oblABLFU73EOK3qrlcjLDcoctG2LWep5b2enlV8=.p12"
+          "storeFile": "/Users/zhiyu/.ohos/config/default_LinysBrowser_NEXT_jh_SY6YxmPFO9v8q51rzAp-ZVDW4SIlW0H-PeZ195TM=.p12"
         }
       },
       {
         "name": "ohos",
         "material": {
-          "certpath": "C:/Users/meowDUO/.ohos/config/openharmony/ohos_Linys_Browser_NEXT_U8e-oblABLFU73EOK3qrlcjLDcoctG2LWep5b2enlV8=.cer",
-          "storePassword": "0000001BC8A3725B5BF88C8AF34379D4F416000B2F2ABC6C959A46F5F07363D0EC03B4E8EA6F2B3EA52A50",
+          "certpath": "/Users/zhiyu/.ohos/config/default_LinysBrowser_NEXT_jh_SY6YxmPFO9v8q51rzAp-ZVDW4SIlW0H-PeZ195TM=.cer",
+          "storePassword": "0000001B9C58B8D00670BCB9071EDF7B120A98FACFCD5DCA8696FD5062B027451F598D5BBB831EE8E1411E",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B08D58D9A76092555EEF059CA7D98562DEA8F9DDEB961371A62D5D395AB77E0690EC6C87CE5AE6E",
-          "profile": "C:/Users/meowDUO/.ohos/config/openharmony/ohos_Linys_Browser_NEXT_U8e-oblABLFU73EOK3qrlcjLDcoctG2LWep5b2enlV8=.p7b",
+          "keyPassword": "0000001B34EC7860F80123215354B0BD68F235EC284ADAF3771B4D6577C577DE6CC6BD619518B655CDAF1C",
+          "profile": "/Users/zhiyu/.ohos/config/default_LinysBrowser_NEXT_jh_SY6YxmPFO9v8q51rzAp-ZVDW4SIlW0H-PeZ195TM=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "C:/Users/meowDUO/.ohos/config/openharmony/ohos_Linys_Browser_NEXT_U8e-oblABLFU73EOK3qrlcjLDcoctG2LWep5b2enlV8=.p12"
+          "storeFile": "/Users/zhiyu/.ohos/config/default_LinysBrowser_NEXT_jh_SY6YxmPFO9v8q51rzAp-ZVDW4SIlW0H-PeZ195TM=.p12"
         }
       }
     ],
